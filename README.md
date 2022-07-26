@@ -3,7 +3,7 @@
 Moisés Suárez is a Computer and Systems Engineer from the Universidad Nacional de Colombia, who has plenty of experience and skill in all sorts of programming and computational solutions. His talent is primarily based in a creative mind, a passion for programming and a friendly communication. 
 
 #### 📬 Get in touch
-- LinkedIn: [https://www.linkedin.com/in/mbsuarezg/)
+- LinkedIn: [mbsuarezg](https://www.linkedin.com/in/mbsuarezg/)
 - Email: [mbsuarezg@unal.edu.co](mbsuarezg@unal.edu.co)
 
 #### Languages and Technologies
